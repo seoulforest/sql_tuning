@@ -8,6 +8,8 @@ SQL 튜닝 시작전 알아 두어야 할것들
 ### 오라클 아키텍처
 ![oracle](oracle_architecture1.png "Oracle architecture1")
 
+![oracle](oracle_architecture2.png "Oracle architecture2")
+
 #### 데이터베이스 아키텍처 = 1.프로세스(Process) + 2.공유메모리 영역 + 3.디스크(물리적 파일)영역
 ***
 #### 1. 프로세스(Process)
@@ -50,4 +52,3 @@ SQL 튜닝 시작전 알아 두어야 할것들
 
 
 
-![oracle](oracle_architecture2.png "Oracle architecture2")
