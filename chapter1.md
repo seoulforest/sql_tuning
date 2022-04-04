@@ -5,4 +5,4 @@ SQL 튜닝 시작전 알아 두어야 할것들
 ---------------
 # 오라클 아키텍처
 
-![Alt text](/path/img.jpg "Optional title")
+![oracle](/oracle_architecture.png "Oracle architecture")
